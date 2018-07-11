@@ -1,2 +1,2 @@
-# pos-modules
+# Odoo POS Modules
 POS modules for Odoo
